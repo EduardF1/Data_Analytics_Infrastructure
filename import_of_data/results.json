@@ -1,0 +1,19 @@
+﻿{
+  "persons": [
+    {
+      "JobTitle": "Chief Executive Officer",
+      "BirthDate": "1969-01-29",
+      "MaritalStatus": "S"
+    },
+    {
+      "JobTitle": "Vice President of Engineering",
+      "BirthDate": "1971-08-01",
+      "MaritalStatus": "S"
+    },
+    {
+      "JobTitle": "Engineering Manager",
+      "BirthDate": "1974-11-12",
+      "MaritalStatus": "M"
+    }
+  ]
+}

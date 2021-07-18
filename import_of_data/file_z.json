@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "Peter Kraus",
+    "JobTitle": "Executive Officer",
+    "BirthDate": "1969-01-29",
+    "MaritalStatus": "M"
+  },
+  {
+    "Name": "Hans Landa",
+    "JobTitle": "King of Scotland",
+    "BirthDate": "1971-08-01",
+    "MaritalStatus": "S"
+  },
+  {
+    "Name": "Georgy Szoros",
+    "JobTitle": "Drill Master",
+    "BirthDate": "1974-11-12",
+    "MaritalStatus": "D",
+    "Money_In_Bank": 3000.432
+  },
+  {
+    "Name": "Georgy Szoros",
+    "JobTitle": "Drill Master",
+    "BirthDate": "1974-11-12",
+    "MaritalStatus": "D",
+    "Money_In_Bank": 3000.432
+    "Children": [
+      {
+        "Age": 10,
+        "Hobby": "TV",
+        "Name": "Jonathan Thunder"
+      }
+      {
+        "Age": 20,
+        "Hobby": "Sudoku",
+        "Name": "Maria Kirsch"
+      }
+    ]
+  }
+
+]
